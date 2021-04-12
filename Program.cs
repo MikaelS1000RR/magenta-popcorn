@@ -10,7 +10,7 @@ namespace magenta_popcorn
             int a = 6;
       int b = 10;
 
-      int result = a + b;
+      int result = a;
 
       Console.WriteLine("Hello World! " + result);
         }
