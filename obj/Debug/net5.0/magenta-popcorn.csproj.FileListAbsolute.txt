@@ -1,0 +1,15 @@
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/magenta-popcorn.deps.json
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/magenta-popcorn.runtimeconfig.json
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/magenta-popcorn.runtimeconfig.dev.json
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/magenta-popcorn.dll
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/ref/magenta-popcorn.dll
+/Users/Mikael/Documents/GitHub/magenta-popcorn/bin/Debug/net5.0/magenta-popcorn.pdb
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.csprojAssemblyReference.cache
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.AssemblyInfoInputs.cache
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.AssemblyInfo.cs
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.csproj.CoreCompileInputs.cache
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.dll
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/ref/magenta-popcorn.dll
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.pdb
+/Users/Mikael/Documents/GitHub/magenta-popcorn/obj/Debug/net5.0/magenta-popcorn.genruntimeconfig.cache
