@@ -7,9 +7,9 @@ namespace magenta_popcorn
         static void Main(string[] args)
         {
 
-          
+      Console.WriteLine("OH! HI!");
 
-      Console.WriteLine("Hello World! " + result);
+      Console.WriteLine("Hello World! ");
         }
     }
 }
