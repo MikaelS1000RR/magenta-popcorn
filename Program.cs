@@ -7,10 +7,7 @@ namespace magenta_popcorn
         static void Main(string[] args)
         {
 
-            int a = 6;
-      int b = 10;
-
-      int result = a;
+          
 
       Console.WriteLine("Hello World! " + result);
         }
